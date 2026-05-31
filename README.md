@@ -23,7 +23,7 @@
 * ****State Variables:****
 * ****Mappings:****
 * ****Constructor****
-* ****Address Type:****
+* ****Address Type:**** Used for ownership,
 * ****Access Control:**** Restricts administrative actions to the contract owner.
 * ****Modifiers:**** `onlyOwner` enforces permission checks.
 * ****Custom Errors:**** Efficient error handling with lower gas consumption than strings.
