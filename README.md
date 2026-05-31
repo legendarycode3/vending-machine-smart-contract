@@ -30,7 +30,7 @@
 * ****msg.sender:****
 * ****msg.value:**** Reads the amount of ETH sent in a transaction.
 * ****Event Emission:**** Logs important activities on-chain.
-* ****Low-Level Calls:**** Uses `.call{value: amount}("")`
+* ****Low-Level Calls:**** Uses `.call{value: amount}("")` for ETH transfers.
 * ****State Mutation:**** Updates balances during purchases and restocking.
 * ****View Functions:**** `availableStocks()` reads data without modifying state.
 * ****Public Visibility:**** Allows external access to variables and functions.
