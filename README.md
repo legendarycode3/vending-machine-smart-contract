@@ -26,7 +26,7 @@
 * ****Address Type:****
 * ****Access Control:****
 * ****Modifiers:****
-* ****Custom Errors:****
+* ****Custom Errors:**** Efficient error handling with lower
 * ****msg.sender:**** Identifies who is interacting with the contract.
 * ****msg.value:**** Reads the amount of ETH sent in a transaction.
 * ****Event Emission:**** Logs important activities on-chain.
