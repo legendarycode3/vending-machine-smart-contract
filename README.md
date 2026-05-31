@@ -2,6 +2,7 @@
 
 ## 📌 Features
 * ****Immutable Owner:**** The deployer becomes the owner permanently.
+* ****Fixed Product Price:****
 
 ## 🧠 Key Concepts Applied
 
