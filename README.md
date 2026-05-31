@@ -10,7 +10,7 @@
 * ****CEI Security Pattern:**** This significantly reduces reentrancy risk.
 * ****Owner Withdrawal:**** Allows only owner to withdraw accumulated sales revenue. Owner can "Checks balance first" and it automatically reverts if no valid available amount .
 * ****Gas-Efficient Custom Errors:**** Instead of "require statement", rather "custom error" is being implement. For Lower deployment cost and Lower execution cost.
-* ****On-Chain Inventory Management:****
+* ****On-Chain Inventory Management:**** Inventory quantities are
 
 ## 🧠 Key Concepts Applied
 
