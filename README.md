@@ -21,7 +21,7 @@
 
 ## 🧠 Key Concepts Applied
 * ****State Variables:****
-* ****Mappings:****
+* ****Mappings:**** `s_stocksBalance` maps addresses to stock quantities.
 * ****Constructor**** Initializes ownership and starting inventory during deployment.
 * ****Address Type:**** Used for ownership, balances, and fund transfers.
 * ****Access Control:**** Restricts administrative actions to the contract owner.
