@@ -12,6 +12,7 @@
 * ****Gas-Efficient Custom Errors:**** Instead of "require statement", rather "custom error" is being implement. For Lower deployment cost and Lower execution cost.
 * ****On-Chain Inventory Management:**** Inventory quantities are stored permanently on-chain.
 * ****Stock Balance Tracking:**** Uses `mapping(address => uint256)` to track stock ownership for every address.
+* ****Contract Inventory Wallet:****
 
 ## 🧠 Key Concepts Applied
 
