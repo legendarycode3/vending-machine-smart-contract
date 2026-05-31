@@ -15,6 +15,7 @@
 * ****Contract Inventory Wallet:**** The contract itself holds inventory using `address(this)`.
 * ****Inventory Availability Check:**** Prevents purchases exceeding available stock.
 * ****Buyer Ownership Recording:**** Purchased stock is assigned to the buyer's balance.
+* ****Public Inventory Query:****
 
 ## 🧠 Key Concepts Applied
 
