@@ -20,6 +20,7 @@
 * ****Overpayment Detection:**** The contract identifies when a user sends more ETH than required.
 
 ## 🧠 Key Concepts Applied
+* ****State Variables:****
 
 ## Why This Matters (Vending Machine Smart Contract)
 
