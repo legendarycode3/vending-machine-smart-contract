@@ -49,6 +49,8 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Provides a Foundation  for Web3 Marketplaces:**** The same purchasing logic can be expanded into NFT, gaming, and e-commerce platforms.
 * ****Demonstrates Digital Ownership:**** Ownership records are stored transparently on the blockchain.
 * ****Demonstrates Blockchain-Based Accounting:**** Inventory and payments are automatically recorded and tracked.
+* ****Programmability:****
+
 
 
 ## Foundry
