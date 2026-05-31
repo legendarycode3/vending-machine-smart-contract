@@ -29,6 +29,7 @@
 * ****Custom Errors:****
 * ****msg.sender:****
 * ****msg.value:****
+* ****Event Emission:****
 
 ## Why This Matters (Vending Machine Smart Contract)
 
