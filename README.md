@@ -5,6 +5,7 @@
 * ****Fixed Product Price:**** Transparent pricing , no manipulation after deployment.
 * ****Initial Inventory:**** Contract itself acts as the inventory holder.
 * ****Owner-Only Restocking:**** Only the machine owner can add inventory and prevents unauthorized stock inflation.
+* ****Purchase Mechanism:****
 
 ## 🧠 Key Concepts Applied
 
