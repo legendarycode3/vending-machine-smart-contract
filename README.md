@@ -50,6 +50,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Demonstrates Digital Ownership:**** Ownership records are stored transparently on the blockchain.
 * ****Demonstrates Blockchain-Based Accounting:**** Inventory and payments are automatically recorded and tracked.
 * ****Programmability:**** money and assets follow automated rules.
+* ****Ownership:****
 
 
 
