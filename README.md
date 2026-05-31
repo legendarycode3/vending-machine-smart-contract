@@ -32,7 +32,7 @@
 * ****Event Emission:****
 * ****Low-Level Calls:****
 * ****State Mutation:****
-* ****View Functions:**** `availableStocks()` reads
+* ****View Functions:**** `availableStocks()` reads data without modifying state.
 * ****Public Visibility:**** Allows external access to variables and functions.
 * ****Function Visibility:**** Uses `public` appropriately for user interaction.
 * ****Gas Optimization Techniques:**** Custom errors, constants, and immutable variables reduce gas usage.
