@@ -28,7 +28,7 @@
 * ****Modifiers:****
 * ****Custom Errors:****
 * ****msg.sender:****
-* ****msg.value:**** Reads the amount of ETH
+* ****msg.value:**** Reads the amount of ETH sent in a transaction.
 * ****Event Emission:**** Logs important activities on-chain.
 * ****Low-Level Calls:**** Uses `.call{value: amount}("")`
 * ****State Mutation:**** Updates balances during purchases and restocking.
