@@ -31,7 +31,7 @@
 * ****msg.value:****
 * ****Event Emission:****
 * ****Low-Level Calls:****
-* ****State Mutation:****
+* ****State Mutation:**** Updates balances during
 * ****View Functions:**** `availableStocks()` reads data without modifying state.
 * ****Public Visibility:**** Allows external access to variables and functions.
 * ****Function Visibility:**** Uses `public` appropriately for user interaction.
