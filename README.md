@@ -35,7 +35,7 @@
 * ****View Functions:****
 * ****Public Visibility:****
 * ****Function Visibility:****
-* ****Gas Optimization Techniques:**** Custom errors,
+* ****Gas Optimization Techniques:**** Custom errors, constants,
 * ****Security-Oriented Design:**** Incorporates access control, validation, and safe transfer handling.
 
 
