@@ -45,7 +45,7 @@ Here is why Vending Machine smart contracts are critical to the Web3 ecosystem:
 * ****Demonstrates Trustless Transactions:**** Buyers interact directly with code instead of relying on a central authority to process purchases.
 * ****Showcases Smart Contract Automation:**** Business rules are executed automatically without human intervention.
 * ****Provides a Foundation  for Web3 Marketplaces:**** The same purchasing logic can be expanded into NFT, gaming, and e-commerce platforms.
-* ****Demonstrates Digital Ownership:**** Ownership records are
+* ****Demonstrates Digital Ownership:**** Ownership records are stored transparently on the blockchain.
 
 
 ## Foundry
