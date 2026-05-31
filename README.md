@@ -36,7 +36,7 @@
 * ****Public Visibility:****
 * ****Function Visibility:****
 * ****Gas Optimization Techniques:****
-* ****Security-Oriented Design:**** Incorporates access control,
+* ****Security-Oriented Design:**** Incorporates access control, validation, and safe transfer handling.
 
 
 ## Why This Matters (Vending Machine Smart Contract)
