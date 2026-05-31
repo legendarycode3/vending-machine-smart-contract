@@ -28,6 +28,7 @@
 * ****Modifiers:****
 * ****Custom Errors:****
 * ****msg.sender:****
+* ****msg.value:****
 
 ## Why This Matters (Vending Machine Smart Contract)
 
