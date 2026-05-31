@@ -20,7 +20,7 @@
 * ****Overpayment Detection:**** The contract identifies when a user sends more ETH than required.
 
 ## 🧠 Key Concepts Applied
-* ****State Variables:****
+* ****State Variables:**** tores contract data such as owner
 * ****Mappings:**** `s_stocksBalance` maps addresses to stock quantities.
 * ****Constructor**** Initializes ownership and starting inventory during deployment.
 * ****Address Type:**** Used for ownership, balances, and fund transfers.
