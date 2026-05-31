@@ -25,6 +25,7 @@
 * ****Constructor****
 * ****Address Type:****
 * ****Access Control:****
+* ****Modifiers:****
 
 ## Why This Matters (Vending Machine Smart Contract)
 
