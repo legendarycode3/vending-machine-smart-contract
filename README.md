@@ -3,7 +3,8 @@
 ## 📌 Features
 * ****Immutable Owner:**** The deployer becomes the owner permanently.
 * ****Fixed Product Price:**** Transparent pricing , no manipulation after deployment.
-* ****Initial Inventory:**** Contract itself acts as the inventory holder
+* ****Initial Inventory:**** Contract itself acts as the inventory holder.
+* ****Owner-Only Restocking:****
 
 ## 🧠 Key Concepts Applied
 
