@@ -17,7 +17,7 @@
 * ****Buyer Ownership Recording:**** Purchased stock is assigned to the buyer's balance.
 * ****Public Inventory Query:**** Anyone can check available machine stock using `availableStocks()`.
 * ****Secure Refund Transfer:**** Refunds are executed using low-level `.call()` for compatibility.
-* ****Overpayment Detection:**** The contract identifies when
+* ****Overpayment Detection:**** The contract identifies when a user sends more ETH than required.
 
 ## 🧠 Key Concepts Applied
 
