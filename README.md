@@ -37,6 +37,7 @@
 * ****Function Visibility:**** Uses `public` appropriately for user interaction.
 * ****Gas Optimization Techniques:**** Custom errors, constants, and immutable variables reduce gas usage.
 * ****Security-Oriented Design:**** Incorporates access control, validation, and safe transfer handling.
+* ****Ether Units:****
 
 
 ## Why This Matters (Vending Machine Smart Contract)
