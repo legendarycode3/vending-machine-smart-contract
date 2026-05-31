@@ -27,7 +27,7 @@
 * ****Access Control:****
 * ****Modifiers:****
 * ****Custom Errors:****
-* ****msg.sender:****
+* ****msg.sender:**** Identifies who is interacting with the contract.
 * ****msg.value:**** Reads the amount of ETH sent in a transaction.
 * ****Event Emission:**** Logs important activities on-chain.
 * ****Low-Level Calls:**** Uses `.call{value: amount}("")` for ETH transfers.
