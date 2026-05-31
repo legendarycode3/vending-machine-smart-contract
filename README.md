@@ -35,6 +35,7 @@
 * ****View Functions:****
 * ****Public Visibility:****
 * ****Function Visibility:****
+* ****Gas Optimization Techniques:****
 
 
 ## Why This Matters (Vending Machine Smart Contract)
