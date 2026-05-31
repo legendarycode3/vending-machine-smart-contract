@@ -41,6 +41,7 @@
 
 
 ## Why This Matters (Vending Machine Smart Contract)
+Here is why Vending Machine smart contracts are critical to the Web3 ecosystem:
 
 
 ## Foundry
