@@ -33,7 +33,7 @@
 * ****Low-Level Calls:****
 * ****State Mutation:****
 * ****View Functions:****
-* ****Public Visibility:****
+* ****Public Visibility:**** Allows external access to variables and functions.
 * ****Function Visibility:**** Uses `public` appropriately for user interaction.
 * ****Gas Optimization Techniques:**** Custom errors, constants, and immutable variables reduce gas usage.
 * ****Security-Oriented Design:**** Incorporates access control, validation, and safe transfer handling.
