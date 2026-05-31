@@ -33,6 +33,7 @@
 * ****Low-Level Calls:****
 * ****State Mutation:****
 * ****View Functions:****
+* ****Public Visibility:****
 
 
 ## Why This Matters (Vending Machine Smart Contract)
