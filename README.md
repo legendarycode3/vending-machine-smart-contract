@@ -30,6 +30,7 @@
 * ****msg.sender:****
 * ****msg.value:****
 * ****Event Emission:****
+* ****Low-Level Calls:****
 
 ## Why This Matters (Vending Machine Smart Contract)
 
