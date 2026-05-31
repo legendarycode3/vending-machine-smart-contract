@@ -42,7 +42,7 @@
 
 ## Why This Matters (Vending Machine Smart Contract)
 The Vending Machine smart contract is important because it demonstrates the fundamental pillars of Web3. Here is why Vending Machine smart contracts are critical to the Web3 ecosystem:
-* ****Decentralization:****
+* ****Decentralization:**** No central server controls transactions.
 * ****Transparency:**** all actions are publicly visible.
 * ****Demonstrates Trustless Transactions:**** Buyers interact directly with code instead of relying on a central authority to process purchases.
 * ****Showcases Smart Contract Automation:**** Business rules are executed automatically without human intervention.
