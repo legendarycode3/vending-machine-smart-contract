@@ -8,6 +8,7 @@
 * ****Purchase Mechanism:****
 * ****Automatic Refunds:**** If a buyer sends too much ETH. The excess amount is refunded automatically.
 * ****CEI Security Pattern:**** This significantly reduces reentrancy risk.
+* ****Owner Withdrawal:****
 
 ## 🧠 Key Concepts Applied
 
