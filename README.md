@@ -13,6 +13,7 @@
 * ****On-Chain Inventory Management:**** Inventory quantities are stored permanently on-chain.
 * ****Stock Balance Tracking:**** Uses `mapping(address => uint256)` to track stock ownership for every address.
 * ****Contract Inventory Wallet:**** The contract itself holds inventory using `address(this)`.
+* ****Inventory Availability Check:****
 
 ## 🧠 Key Concepts Applied
 
