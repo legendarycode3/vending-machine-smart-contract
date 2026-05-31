@@ -31,6 +31,8 @@
 * ****msg.value:****
 * ****Event Emission:****
 * ****Low-Level Calls:****
+* ****State Mutation:****
+
 
 ## Why This Matters (Vending Machine Smart Contract)
 
