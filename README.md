@@ -29,7 +29,7 @@
 * ****Custom Errors:****
 * ****msg.sender:****
 * ****msg.value:****
-* ****Event Emission:****
+* ****Event Emission:**** Logs important activities on-chain.
 * ****Low-Level Calls:**** Uses `.call{value: amount}("")`
 * ****State Mutation:**** Updates balances during purchases and restocking.
 * ****View Functions:**** `availableStocks()` reads data without modifying state.
