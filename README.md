@@ -24,8 +24,8 @@
 * ****Mappings:****
 * ****Constructor****
 * ****Address Type:****
-* ****Access Control:****
-* ****Modifiers:**** onlyOwner enforces permission checks.
+* ****Access Control:**** Restricts administrative actions to the contract owner.
+* ****Modifiers:**** `onlyOwner` enforces permission checks.
 * ****Custom Errors:**** Efficient error handling with lower gas consumption than strings.
 * ****msg.sender:**** Identifies who is interacting with the contract.
 * ****msg.value:**** Reads the amount of ETH sent in a transaction.
