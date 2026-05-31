@@ -1,7 +1,7 @@
 # 🎰 Vending Machine Smart Contract
 
 ## 📌 Features
-* ****Immutable Owner:**** The deployer becomes
+* ****Immutable Owner:**** The deployer becomes the owner permanently.
 
 ## 🧠 Key Concepts Applied
 
