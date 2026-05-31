@@ -42,7 +42,7 @@
 
 ## Why This Matters (Vending Machine Smart Contract)
 Here is why Vending Machine smart contracts are critical to the Web3 ecosystem:
-* ****Demonstrates Trustless Transactions:**** Buyers interact directly
+* ****Demonstrates Trustless Transactions:**** Buyers interact directly with code instead of relying on a central authority to process purchases.
 
 
 ## Foundry
