@@ -36,6 +36,7 @@
 * ****Public Visibility:****
 * ****Function Visibility:****
 * ****Gas Optimization Techniques:****
+* ****Security-Oriented Design:****
 
 
 ## Why This Matters (Vending Machine Smart Contract)
