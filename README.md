@@ -6,7 +6,7 @@
 * ****Initial Inventory:**** Contract itself acts as the inventory holder.
 * ****Owner-Only Restocking:**** Only the machine owner can add inventory and prevents unauthorized stock inflation.
 * ****Purchase Mechanism:****
-* ****Automatic Refunds:**** If a buyer sends too much ETH
+* ****Automatic Refunds:**** If a buyer sends too much ETH. The excess amount is refunded automatically.
 
 ## 🧠 Key Concepts Applied
 
