@@ -30,7 +30,7 @@
 * ****msg.sender:****
 * ****msg.value:****
 * ****Event Emission:****
-* ****Low-Level Calls:****
+* ****Low-Level Calls:**** Uses `.call{value: amount}("")`
 * ****State Mutation:**** Updates balances during purchases and restocking.
 * ****View Functions:**** `availableStocks()` reads data without modifying state.
 * ****Public Visibility:**** Allows external access to variables and functions.
