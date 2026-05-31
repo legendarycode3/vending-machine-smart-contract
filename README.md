@@ -23,6 +23,7 @@
 * ****State Variables:****
 * ****Mappings:****
 * ****Constructor****
+* ****Address Type:****
 
 ## Why This Matters (Vending Machine Smart Contract)
 
