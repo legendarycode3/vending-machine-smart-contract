@@ -1,6 +1,7 @@
 # 🎰 Vending Machine Smart Contract
 
 ## 📌 Features
+* ****Immutable Owner:****
 
 ## 🧠 Key Concepts Applied
 
