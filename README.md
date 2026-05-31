@@ -22,7 +22,7 @@
 ## 🧠 Key Concepts Applied
 * ****State Variables:****
 * ****Mappings:****
-* ****Constructor****
+* ****Constructor**** Initializes ownership and starting
 * ****Address Type:**** Used for ownership, balances, and fund transfers.
 * ****Access Control:**** Restricts administrative actions to the contract owner.
 * ****Modifiers:**** `onlyOwner` enforces permission checks.
