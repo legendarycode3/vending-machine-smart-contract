@@ -27,6 +27,7 @@
 * ****Access Control:****
 * ****Modifiers:****
 * ****Custom Errors:****
+* ****msg.sender:****
 
 ## Why This Matters (Vending Machine Smart Contract)
 
