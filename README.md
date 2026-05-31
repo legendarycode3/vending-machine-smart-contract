@@ -26,6 +26,7 @@
 * ****Address Type:****
 * ****Access Control:****
 * ****Modifiers:****
+* ****Custom Errors:****
 
 ## Why This Matters (Vending Machine Smart Contract)
 
