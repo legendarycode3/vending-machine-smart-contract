@@ -1,4 +1,6 @@
-# Vending Machine Smart Contract
+# 🎰 Vending Machine Smart Contract
+
+## 📌 Features
 
 ## Foundry
 
