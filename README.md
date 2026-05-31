@@ -14,7 +14,7 @@
 * ****Stock Balance Tracking:**** Uses `mapping(address => uint256)` to track stock ownership for every address.
 * ****Contract Inventory Wallet:**** The contract itself holds inventory using `address(this)`.
 * ****Inventory Availability Check:**** Prevents purchases exceeding available stock.
-* ****Buyer Ownership Recording:****
+* ****Buyer Ownership Recording:**** Purchased stock is assigned
 
 ## 🧠 Key Concepts Applied
 
