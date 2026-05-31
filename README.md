@@ -34,6 +34,7 @@
 * ****State Mutation:****
 * ****View Functions:****
 * ****Public Visibility:****
+* ****Function Visibility:****
 
 
 ## Why This Matters (Vending Machine Smart Contract)
