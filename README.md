@@ -52,6 +52,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Programmability:**** money and assets follow automated rules.
 * ****Ownership:**** Uers directly control their assets.
 * ****Security:**** Blockchain consensus protects transaction integrity.
+* ****Composability:****
 
 
 
