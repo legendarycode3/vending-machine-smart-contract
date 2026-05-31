@@ -24,6 +24,7 @@
 * ****Mappings:****
 * ****Constructor****
 * ****Address Type:****
+* ****Access Control:****
 
 ## Why This Matters (Vending Machine Smart Contract)
 
