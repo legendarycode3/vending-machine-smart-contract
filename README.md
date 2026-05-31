@@ -22,6 +22,7 @@
 ## 🧠 Key Concepts Applied
 * ****State Variables:****
 * ****Mappings:****
+* ****Constructor****
 
 ## Why This Matters (Vending Machine Smart Contract)
 
