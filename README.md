@@ -32,6 +32,7 @@
 * ****Event Emission:****
 * ****Low-Level Calls:****
 * ****State Mutation:****
+* ****View Functions:****
 
 
 ## Why This Matters (Vending Machine Smart Contract)
