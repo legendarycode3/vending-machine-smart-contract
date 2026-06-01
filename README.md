@@ -84,6 +84,7 @@ The primary objectives of this project are: </br>
 ###  Withdrawal Flow
 ****1.**** Owner calls `withdraw()`. </br>
 ****2.**** Contract transfers accumulated ETH. </br>
+****3.**** Event emitted.
 
 ## Why This Matters (Vending Machine Smart Contract)
 The Vending Machine smart contract is important because it demonstrates the fundamental pillars of Web3. Here is why Vending Machine smart contracts are critical to the Web3 ecosystem:
