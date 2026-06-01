@@ -76,7 +76,7 @@ The primary purpose of this file is to: </br>
 * Provide transparency through blockchain event logs.
 * Demonstrate Solidity best practices and smart contract design patterns..
 
-* ****`VendingMachine.t.sol`****
+* ****`VendingMachine.t.sol`**** is the testing file responsible for validating
 
 
 
