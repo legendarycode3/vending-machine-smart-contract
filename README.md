@@ -63,7 +63,7 @@ This `Vending Machine Smart Contract` demonstrates a practical blockchain-based 
 
 
 ## 📂 Project Structure (Files)
-* ****`VendingMachine.sol`**** is the core smart contract of the project. It implements a blockchain-powered vending machine that maintains an inventory of stocks (items), allows users to purchase those stocks using Ether, automatically refunds excess payments, and enables the contract owner to manage inventory and withdraw funds. </br>
+****1**** ****`VendingMachine.sol`**** is the core smart contract of the project. It implements a blockchain-powered vending machine that maintains an inventory of stocks (items), allows users to purchase those stocks using Ether, automatically refunds excess payments, and enables the contract owner to manage inventory and withdraw funds. </br>
 The contract demonstrates several important Solidity development concepts, including ownership management, inventory tracking, Ether transfers, event logging, custom errors, and smart contract security patterns. Also, this contract acts as the on-chain backend of the vending machine, ensuring that every transaction is executed according to predefined rules without the need for intermediaries. </br>
 
  Purpose: </br>
