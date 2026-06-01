@@ -1,5 +1,8 @@
 # 🎰 Vending Machine Smart Contract
 
+
+## Project Overview
+
 ## 📌 Features
 * ****Immutable Owner:**** The deployer becomes the owner permanently.
 * ****Fixed Product Price:**** Transparent pricing , no manipulation after deployment.
