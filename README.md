@@ -12,6 +12,7 @@ The primary objectives of this project are: </br>
 * Allow the owner to restock inventory when necessary.
 * Automatically process payments and refunds.
 * Ensure only authorized users can perform administrative actions.
+* Demonstrate Solidity best practices such as:
 
 
 ## 📌 Features
