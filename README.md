@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-The `VendingMachine`
+The `VendingMachine` smart contract is a blockchain-based
 
 ## 📌 Features
 * ****Immutable Owner:**** The deployer becomes the owner permanently.
