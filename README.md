@@ -67,6 +67,7 @@ This `Vending Machine Smart Contract` demonstrates a practical blockchain-based 
 The contract demonstrates several important Solidity development concepts, including ownership management, inventory tracking, Ether transfers, event logging, custom errors, and smart contract security patterns. Also, this contract acts as the on-chain backend of the vending machine, ensuring that every transaction is executed according to predefined rules without the need for intermediaries. </br>
 
 Purpose: </br>
+The primary purpose of this file is to: </br>
 
 
 
