@@ -65,16 +65,18 @@ The primary objectives of this project are: </br>
 ### Deployment
 ****1.**** Compilie contract. </br>
 ****2.**** Deploy contract. </br>
-****3.**** Deployer becomes owner.
+****3.**** Deployer becomes owner. </br>
 ****4.**** Inventory automatically starts at 500 stocks. </br>
 
 ### Purchase Flow
-****1.**** User selects quantity amunt.
+****1.**** User selects quantity amunt. </br>
 ****2.**** Sends ETH with transaction. </br>
 ****3.**** Contract validates payment. </br>
 ****4.**** Inventory is reduced. </br>
 ****5.**** User balance increases. </br>
 ****6.**** Excess ETH is refunded. </br>
+
+### Restocking Flow
 
 ## Why This Matters (Vending Machine Smart Contract)
 The Vending Machine smart contract is important because it demonstrates the fundamental pillars of Web3. Here is why Vending Machine smart contracts are critical to the Web3 ecosystem:
