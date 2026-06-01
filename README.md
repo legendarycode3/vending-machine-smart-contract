@@ -70,10 +70,11 @@ The primary objectives of this project are: </br>
 
 ### Purchase Flow
 ****1.**** User selects quantity amunt.
-****2.**** Sends ETH with transaction.
-****3.**** Contract validates payment.
-****4.**** Inventory is reduced.
-****5.**** User balance increases.
+****2.**** Sends ETH with transaction. </br>
+****3.**** Contract validates payment. </br>
+****4.**** Inventory is reduced. </br>
+****5.**** User balance increases. </br>
+****6.**** Excess ETH is refunded. </br>
 
 ## Why This Matters (Vending Machine Smart Contract)
 The Vending Machine smart contract is important because it demonstrates the fundamental pillars of Web3. Here is why Vending Machine smart contracts are critical to the Web3 ecosystem:
