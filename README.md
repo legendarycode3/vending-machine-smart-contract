@@ -20,7 +20,7 @@ The primary objectives of this project are: </br>
   * Immutable and Constant Variables.  
 
 ****Conclusion:**** </br>
-This `Vending Machine Smart Contract` demonstrates a practical blockchain-based inventory and payment system. It combines secure ownership controls, transparent event logging, automated  refunds, and on-chain inventory management
+This `Vending Machine Smart Contract` demonstrates a practical blockchain-based inventory and payment system. It combines secure ownership controls, transparent event logging, automated  refunds, and on-chain inventory management to create a decentralized vending machine solution.
 
 ## 📌 Features
 * ****Immutable Owner:**** The deployer becomes the owner permanently.
