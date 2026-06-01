@@ -73,6 +73,7 @@ The primary purpose of this file is to: </br>
 * Allow users to purchase stocks using Ether (ETH).
 * Enable the owner to manage inventory.
 * Securely store and transfer collected funds.
+* Provide transparency through blockchain event logs.
 
 
 
