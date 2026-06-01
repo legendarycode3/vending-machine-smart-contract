@@ -66,6 +66,7 @@ The primary objectives of this project are: </br>
 ****1.**** Compilie contract. </br>
 ****2.**** Deploy contract. </br>
 ****3.**** Deployer becomes owner.
+****4.**** Inventory automatically starts at 500 stocks. </br>
 
 
 ## Why This Matters (Vending Machine Smart Contract)
