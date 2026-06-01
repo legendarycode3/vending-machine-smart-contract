@@ -11,6 +11,7 @@ The primary objectives of this project are: </br>
 * Maintain an on-chain inventory system.
 * Allow the owner to restock inventory when necessary.
 * Automatically process payments and refunds.
+* Ensure only authorized
 
 
 ## 📌 Features
