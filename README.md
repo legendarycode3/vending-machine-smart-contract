@@ -68,6 +68,7 @@ The contract demonstrates several important Solidity development concepts, inclu
 
 Purpose: </br>
 The primary purpose of this file is to: </br>
+* Create a decentralized vending
 
 
 
