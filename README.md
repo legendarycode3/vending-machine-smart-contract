@@ -63,8 +63,9 @@ The primary objectives of this project are: </br>
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
 
 ### Deployment
-****1.**** Deploy contract.
-****2.**** Deployer becomes owner.
+****1.**** Compilie contract. </br>
+****2.**** Deploy contract. </br>
+****3.**** Deployer becomes owner.
 
 
 ## Why This Matters (Vending Machine Smart Contract)
