@@ -85,6 +85,7 @@ Testing is essential because smart contracts become immutable after deployment, 
    * Verify contract correctness.
    * Detect logic errors before deployment.
    * Confirm expected transaction behavior.
+   * Ensure future code modifications
 
 
 
