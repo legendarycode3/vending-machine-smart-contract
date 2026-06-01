@@ -81,7 +81,8 @@ Built using Foundry's testing framework, this file contains a comprehensive suit
 Testing is essential because smart contracts become immutable after deployment, making bug prevention a critical development requirement. </br>
 
 Purpose: </br>
-The purpose of this file is to:
+The purpose of this file is to: </br>
+Verify contract correctness.
 
 
 
