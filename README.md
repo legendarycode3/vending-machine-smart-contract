@@ -9,7 +9,7 @@ The contract leverages blockchain technology to provide transparent transactions
 The primary objectives of this project are: </br>
 * Enable users to purchase items directly from a smart contract.
 * Maintain an on-chain inventory system.
-* Allow the owner to
+* Allow the owner to restock inventory when necessary.
 
 
 ## 📌 Features
