@@ -71,6 +71,7 @@ The primary purpose of this file is to: </br>
 * Create a decentralized vending machine on the Ethereum blockchain.
 * Maintain inventory records directly on-chain.
 * Allow users to purchase stocks using Ether (ETH).
+* Enable the owner
 
 
 
