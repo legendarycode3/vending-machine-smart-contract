@@ -82,10 +82,10 @@ Testing is essential because smart contracts become immutable after deployment, 
 
  Purpose: </br>
  The purpose of this file is to: </br>
-     * Verify contract correctness.
-     * Detect logic errors before deployment.
-     * Confirm expected transaction behavior.
-     * Ensure future code modifications do not introduce regressions.
+   * Verify contract correctness.
+   * Detect logic errors before deployment.
+   * Confirm expected transaction behavior.
+   * Ensure future code modifications do not introduce regressions.
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
