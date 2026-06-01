@@ -7,7 +7,7 @@ The contract leverages blockchain technology to provide transparent transactions
 
 ****Project Objectives:**** </br>
 The primary objectives of this project are: </br>
-* Enable users to purchase.
+* Enable users to purchase items directly from a smart contract.
 
 
 ## 📌 Features
