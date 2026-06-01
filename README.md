@@ -74,6 +74,8 @@ The primary purpose of this file is to: </br>
 * Enable the owner to manage inventory.
 * Securely store and transfer collected funds.
 * Provide transparency through blockchain event logs.
+* Demonstrate Solidity best practices
+
 
 
 
