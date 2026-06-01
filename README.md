@@ -62,6 +62,9 @@ This `Vending Machine Smart Contract` demonstrates a practical blockchain-based 
 * ****Ether Units:**** Uses Solidity denomination `ether` for pricing.
 
 
+## 📂 Project Structure (Files)
+
+
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
 
 ### Deployment
