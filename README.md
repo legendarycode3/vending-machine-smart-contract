@@ -20,7 +20,7 @@ The primary objectives of this project are: </br>
   * Immutable and Constant Variables.  
 
 ****Conclusion:**** </br>
-The Vending Machine
+This `Vending Machine Smart Contract` demonstrates
 
 ## 📌 Features
 * ****Immutable Owner:**** The deployer becomes the owner permanently.
