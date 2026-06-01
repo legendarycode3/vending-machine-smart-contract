@@ -63,6 +63,7 @@ This `Vending Machine Smart Contract` demonstrates a practical blockchain-based 
 
 
 ## 📂 Project Structure (Files)
+* ****`VendingMachine.sol`****
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
