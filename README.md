@@ -15,7 +15,8 @@ The primary objectives of this project are: </br>
 * Demonstrate Solidity best practices such as:
   * Custom Errors.
   * Events.
-  * Modifiers.   
+  * Modifiers.
+  * Checks-Effects-Interactions Pattern  
 
 
 ## 📌 Features
