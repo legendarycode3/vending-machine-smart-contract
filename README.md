@@ -82,7 +82,8 @@ Testing is essential because smart contracts become immutable after deployment, 
 
 Purpose: </br>
 The purpose of this file is to: </br>
-Verify contract correctness.
+* Verify contract correctness.
+* Detect logic errors before deployment.
 
 
 
