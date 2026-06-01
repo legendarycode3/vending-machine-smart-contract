@@ -13,6 +13,7 @@ The primary objectives of this project are: </br>
 * Automatically process payments and refunds.
 * Ensure only authorized users can perform administrative actions.
 * Demonstrate Solidity best practices such as:
+  * Custom Errors   
 
 
 ## 📌 Features
