@@ -10,6 +10,7 @@ The primary objectives of this project are: </br>
 * Enable users to purchase items directly from a smart contract.
 * Maintain an on-chain inventory system.
 * Allow the owner to restock inventory when necessary.
+* Automatically process payments and refunds.
 
 
 ## 📌 Features
