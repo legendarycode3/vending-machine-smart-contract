@@ -77,7 +77,7 @@ The primary purpose of this file is to: </br>
 * Demonstrate Solidity best practices and smart contract design patterns..
 
 * ****`VendingMachine.t.sol`**** is the testing file responsible for validating the behavior and reliability of the smart contract. </br>
-Built using Foundry's testing framework, this file contains a comprehensive suite of automated tests designed to simulate real-world interactions with the vending machine and
+Built using Foundry's testing framework, this file contains a comprehensive suite of automated tests designed to simulate real-world interactions with the vending machine and verify that every function behaves correctly
 
 
 
