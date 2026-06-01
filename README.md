@@ -14,7 +14,8 @@ The primary objectives of this project are: </br>
 * Ensure only authorized users can perform administrative actions.
 * Demonstrate Solidity best practices such as:
   * Custom Errors.
-  * Events   
+  * Events.
+  * Modifiers.   
 
 
 ## 📌 Features
