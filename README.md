@@ -72,6 +72,7 @@ The primary purpose of this file is to: </br>
 * Maintain inventory records directly on-chain.
 * Allow users to purchase stocks using Ether (ETH).
 * Enable the owner to manage inventory.
+* Securely store and
 
 
 
