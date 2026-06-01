@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-The `VendingMachine` smart contract is a blockchain-based inventory and payment system that simulates the functionality of a real-world vending machine. Users can purchase stocks/items by paying Ether, while the contract owner manages inventory through restocking and fund withdrawals, built on the Ethereum blockchain using Solidity.
+The `VendingMachine` smart contract is a blockchain-based inventory and payment system that simulates the functionality of a real-world vending machine. Users can purchase stocks/items by paying Ether, while the contract owner manages inventory through restocking and fund withdrawals. It is built on the Ethereum blockchain using Solidity.
 
 ## 📌 Features
 * ****Immutable Owner:**** The deployer becomes the owner permanently.
