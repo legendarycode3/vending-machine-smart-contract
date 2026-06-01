@@ -16,7 +16,8 @@ The primary objectives of this project are: </br>
   * Custom Errors.
   * Events.
   * Modifiers.
-  * Checks-Effects-Interactions Pattern  
+  * Checks-Effects-Interactions Pattern.
+  * Immutable and Constant Variables.  
 
 
 ## 📌 Features
