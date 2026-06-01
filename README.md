@@ -68,22 +68,23 @@ The contract demonstrates several important Solidity development concepts, inclu
 
  Purpose: </br>
  The primary purpose of this file is to: </br>
- * Create a decentralized vending machine on the Ethereum blockchain.
- * Maintain inventory records directly on-chain.
- * Allow users to purchase stocks using Ether (ETH).
- * Enable the owner to manage inventory.
- * Securely store and transfer collected funds.
- * Provide transparency through blockchain event logs.
- * Demonstrate Solidity best practices and smart contract design patterns..
+  * Create a decentralized vending machine on the Ethereum blockchain.
+  * Maintain inventory records directly on-chain.
+  * Allow users to purchase stocks using Ether (ETH).
+  * Enable the owner to manage inventory.
+  * Securely store and transfer collected funds.
+  * Provide transparency through blockchain event logs.
+  * Demonstrate Solidity best practices and smart contract design patterns..
 
 * ****`VendingMachine.t.sol`**** is the testing file responsible for validating the behavior and reliability of the smart contract. </br>
 Built using Foundry's testing framework, this file contains a comprehensive suite of automated tests designed to simulate real-world interactions with the vending machine and verify that every function behaves correctly under both normal and abnormal conditions. </br>
 Testing is essential because smart contracts become immutable after deployment, making bug prevention a critical development requirement. </br>
 
-Purpose: </br>
-The purpose of this file is to: </br>
-* Verify contract correctness.
-* Detect logic errors before deployment.
+ Purpose: </br>
+ The purpose of this file is to: </br>
+   * Verify contract correctness.
+   * Detect logic errors before deployment.
+   * Confirm expected transaction behavior.
 
 
 
