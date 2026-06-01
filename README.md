@@ -63,7 +63,7 @@ This `Vending Machine Smart Contract` demonstrates a practical blockchain-based 
 
 
 ## 📂 Project Structure (Files)
-* ****`VendingMachine.sol`**** is the core smart contract of the project. It implements a blockchain-powered vending
+* ****`VendingMachine.sol`**** is the core smart contract of the project. It implements a blockchain-powered vending machine that maintains
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
