@@ -6,7 +6,8 @@ The `VendingMachine` smart contract is a blockchain-based inventory and payment 
 The contract leverages blockchain technology to provide transparent transactions, automated payment processing, immutable inventory tracking, and secure ownership controls.
 
 ****Project Objectives:**** </br>
-The primary objectives of this project are:
+The primary objectives of this project are: </br>
+* Enable users to purchase.
 
 
 ## 📌 Features
