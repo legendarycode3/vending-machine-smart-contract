@@ -19,6 +19,8 @@ The primary objectives of this project are: </br>
   * Checks-Effects-Interactions Pattern.
   * Immutable and Constant Variables.  
 
+****Conclusion:****
+
 
 ## 📌 Features
 * ****Immutable Owner:**** The deployer becomes the owner permanently.
