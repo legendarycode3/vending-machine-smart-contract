@@ -75,7 +75,8 @@ The primary purpose of this file is to: </br>
 * Securely store and transfer collected funds.
 * Provide transparency through blockchain event logs.
 * Demonstrate Solidity best practices and smart contract design patterns..
-* 
+
+* ****`VendingMachine.t.sol`****
 
 
 
