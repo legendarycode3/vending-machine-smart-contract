@@ -120,6 +120,8 @@ Testing is essential because smart contracts become immutable after deployment, 
       cd vending-machine-smart-contract
    ```
 3. Compile the smart contract:  `forge build`
+
+ ### Testing the contract (Using Foundry Development Kit )
  
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
