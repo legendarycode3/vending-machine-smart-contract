@@ -127,6 +127,9 @@ Runing all tests:
         forge test
    ```
 Runing specific test:
+  ```shell
+       forge test --mt testFunctionName
+   ```
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
