@@ -115,6 +115,7 @@ Testing is essential because smart contracts become immutable after deployment, 
    ```shell
       git clone https://github.com/legendarycode3/vending-machine-smart-contract
    ```
+2. Navigate to the directory you created and cloned the file to:
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
