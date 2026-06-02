@@ -119,7 +119,8 @@ Testing is essential because smart contracts become immutable after deployment, 
    ```shell
       cd vending-machine-smart-contract
    ```
-   
+3. Compile the smart contract: 
+ 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
 ### Deployment
