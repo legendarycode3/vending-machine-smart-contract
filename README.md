@@ -136,7 +136,7 @@ Runing specific test:
 ### Functions:
 * ****`constructor()`****:
 * ****`restock(uint256 _amount)`****:
-* ****`buyerPurchaseStocks`****:
+* ****`buyerPurchaseStocks(uint256 _amount)`****:
 
 ### Variables:
 
