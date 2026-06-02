@@ -106,6 +106,7 @@ Testing is essential because smart contracts become immutable after deployment, 
 
 ## Usage 
 ### Building the Project (Using Remix IDE): 
+1. Copy the core smart contract file code
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
