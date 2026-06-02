@@ -142,7 +142,7 @@ Runing specific test:
   Adds more inventory to the vending machine.
 * ****`buyerPurchaseStocks(uint256 _amount)`****: Allows users to purchase stocks/items from the vending machine by sending ETH. Checks sufficient payment and inventory, transfers stocks to the buyer, issues refunds for overpayments, and emits purchase/refund events. </br>
     * Purpose: </br>
-    Allows users to buy
+    Allows users to buy stocks from the vending machine.
 * ****`withdraw()`****: Allows only the owner to withdraw all ETH accumulated in the contract from stock purchases. Reverts if there are no funds available. Emits a `FundsWithdrawn` event. </br>
     * Purpose: </br>
 * ****`availableStocks()`****: Returns the current number of stocks/items available in the vending machine inventory (`address(this)`). </br>
