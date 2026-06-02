@@ -123,6 +123,9 @@ Testing is essential because smart contracts become immutable after deployment, 
 
 ### Testing the contract (Using Foundry Development Kit )
 Runing all tests:
+   ```shell
+        forge test
+   ```
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
