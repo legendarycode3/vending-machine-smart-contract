@@ -148,7 +148,7 @@ Runing specific test:
     Transfers all ETH stored in the contract to the owner.
 * ****`availableStocks()`****: Returns the current number of stocks/items available in the vending machine inventory (`address(this)`). </br>
     * Purpose: </br>
-    Returns the remaining
+    Returns the remaining inventory in the vending machine.
  
 ### Variables:
 
