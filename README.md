@@ -145,6 +145,7 @@ Runing specific test:
     Allows users to buy stocks from the vending machine.
 * ****`withdraw()`****: Allows only the owner to withdraw all ETH accumulated in the contract from stock purchases. Reverts if there are no funds available. Emits a `FundsWithdrawn` event. </br>
     * Purpose: </br>
+    Transfers all ETH
 * ****`availableStocks()`****: Returns the current number of stocks/items available in the vending machine inventory (`address(this)`). </br>
     * Purpose: </br>
  
