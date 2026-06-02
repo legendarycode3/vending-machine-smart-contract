@@ -100,6 +100,9 @@ Testing is essential because smart contracts become immutable after deployment, 
 * Solidity Compiler, Version ^0.8.19 or higher.
 * `Remix IDE` or  `Foundry Development Kit` 
 
+### Recommendation (For Beginners)
+
+
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
 
