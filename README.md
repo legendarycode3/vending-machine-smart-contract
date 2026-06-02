@@ -110,6 +110,8 @@ Testing is essential because smart contracts become immutable after deployment, 
 2. Create a new file for the project  on your Remix IDE and paste ,  to learn and build along faster.
 3. And then Compile the smart  contract file you have created on Remix IDE.
 
+### Building the Project  (Using Foundry Development Kit )
+
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
 ### Deployment
