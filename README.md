@@ -136,11 +136,12 @@ Runing specific test:
 ### Functions:
 * ****`constructor()`****: Sets the contract deployer as the owner (`i_owner`) and initializes the vending machine with `500` stocks assigned to the contract itself (`address(this)`). </br>
   Purpose: </br>
-  Runs only once during deployment.
+    * Runs only once during deployment.
 * ****`restock(uint256 _amount)`****: Allows only the owner to add more stocks to the vending machine inventory. Emits a `StockRestocked` event after successful restocking. </br>
-  Purpose: </br>
+    * Purpose: </br>
   Adds more inventory to the vending machine.
-* ****`buyerPurchaseStocks(uint256 _amount)`****: Allows users to purchase stocks/items from the vending machine by sending ETH. Checks sufficient payment and inventory, transfers stocks to the buyer, issues refunds for overpayments, and emits purchase/refund events.
+* ****`buyerPurchaseStocks(uint256 _amount)`****: Allows users to purchase stocks/items from the vending machine by sending ETH. Checks sufficient payment and inventory, transfers stocks to the buyer, issues refunds for overpayments, and emits purchase/refund events. </br>
+    * Purpose: </br>
 * ****`withdraw()`****: Allows only the owner to withdraw all ETH accumulated in the contract from stock purchases. Reverts if there are no funds available. Emits a `FundsWithdrawn` event.
 * ****`availableStocks()`****: Returns the current number of stocks/items available in the vending machine inventory (`address(this)`).
 
