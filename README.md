@@ -107,6 +107,7 @@ Testing is essential because smart contracts become immutable after deployment, 
 ## Usage 
 ### Building the Project (Using Remix IDE): 
 1. Copy the core smart contract file code `VendingMachine.sol` to Remix IDE (a browser based IDE, for quick prototyping).
+2. Create a new file for the project  on your Remix IDE and paste ,
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
