@@ -151,7 +151,7 @@ Runing specific test:
     Returns the remaining inventory in the vending machine.
  
 ### Variables: 
-* ****`i_owner`****: Stores the address of the contract owner (the deployer). It is set once in the constructor and
+* ****`i_owner`****: Stores the address of the contract owner (the deployer). It is set once in the constructor and cannot be changed afterward because it is `immutable`.
 * ****`STOCK_PRICE`****:
 * ****`INITIAL_STOCKS`****:
 * ****`s_stocksBalance`****:
