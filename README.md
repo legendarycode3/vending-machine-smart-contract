@@ -89,6 +89,7 @@ Testing is essential because smart contracts become immutable after deployment, 
 
 
 ## 🌐Technology Stack (Technologies Used)
+* ****[Solidity](https://www.soliditylang.org/)**** -
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
