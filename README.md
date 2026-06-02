@@ -133,6 +133,7 @@ Runing specific test:
 
 
 ## 📋Contract Details
+### Functions:
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
