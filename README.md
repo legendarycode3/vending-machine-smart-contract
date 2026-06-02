@@ -153,7 +153,7 @@ Runing specific test:
 ### Variables: 
 * ****`i_owner`****: Stores the address of the contract owner (the deployer). It is set once in the constructor and cannot be changed afterward because it is `immutable`.
 * ****`STOCK_PRICE`****: The fixed price of one stock/item in the vending machine. Set to `0.1 ether`. Since it is `constant`, its value cannot be modified.
-* ****`INITIAL_STOCKS`****: Defines the initial inventory
+* ****`INITIAL_STOCKS`****: Defines the initial inventory of the vending machine when
 * ****`s_stocksBalance`****:
 
 
