@@ -95,6 +95,9 @@ Testing is essential because smart contracts become immutable after deployment, 
 * ****[Visual Studio Code](https://code.visualstudio.com/)**** - Install this IDE only if you are using foundry development kit rather than "Remix IDE" which is for quick prototying.
 
 
+## Getting Started
+
+
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
 
 ### Deployment
