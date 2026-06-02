@@ -138,6 +138,7 @@ Runing specific test:
 * ****`restock(uint256 _amount)`****:
 * ****`buyerPurchaseStocks(uint256 _amount)`****:
 * ****`withdraw()`****:
+* ****`availableStocks()`****:
 
 ### Variables:
 
