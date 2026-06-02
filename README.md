@@ -126,6 +126,7 @@ Runing all tests:
    ```shell
         forge test
    ```
+Runing specific test:
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
