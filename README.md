@@ -134,7 +134,7 @@ Runing specific test:
 
 ## 📋Contract Details
 ### Functions:
-* ****`constructor()`****: Sets the contract deployer as the owner (`i_owner`)
+* ****`constructor()`****: Sets the contract deployer as the owner (`i_owner`) and initializes the vending machine
 * ****`restock(uint256 _amount)`****:
 * ****`buyerPurchaseStocks(uint256 _amount)`****:
 * ****`withdraw()`****:
