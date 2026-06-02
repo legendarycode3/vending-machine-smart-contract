@@ -154,6 +154,7 @@ Runing specific test:
 * ****`i_owner`****:
 * ****`STOCK_PRICE`****:
 * ****`INITIAL_STOCKS`****:
+* ****`s_stocksBalance`****:
 
 
 
