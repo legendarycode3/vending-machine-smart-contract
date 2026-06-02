@@ -135,6 +135,8 @@ Runing specific test:
 ## 📋Contract Details
 ### Functions:
 
+### Variables:
+
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
 ### Deployment
