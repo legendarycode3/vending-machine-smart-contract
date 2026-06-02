@@ -151,24 +151,8 @@ Runing specific test:
     Returns the remaining inventory in the vending machine.
  
 ### Variables:
+* ****`i_owner`****:
 
-Deploy Contract </br>
-       │ </br>
-       ▼ </br>
-Initial Stock = 500
-       │
-       ▼
-Customers Buy Stocks
-       │
-       ├── Stock Reduced
-       ├── ETH Stored in Contract
-       └── Refund Excess ETH
-       │
-       ▼
-Owner Restocks Inventory
-       │
-       ▼
-Owner Withdraws Revenue
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
