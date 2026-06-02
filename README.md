@@ -104,9 +104,11 @@ Testing is essential because smart contracts become immutable after deployment, 
 ****NOTE (Use Remix IDE, for quick prototyping):****  You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code works while trying to build yours as you keep building.
 
 
+## Usage 
+
+
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
-
 ### Deployment
 ****1.**** Compilie contract. </br>
 ****2.**** Deploy contract. </br>
