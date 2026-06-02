@@ -90,7 +90,7 @@ Testing is essential because smart contracts become immutable after deployment, 
 
 ## 🌐Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
-* * ****[Remix IDE](https://remix.ethereum.org/)**** -
+* ****[Remix IDE](https://remix.ethereum.org/)**** -  used it to write, and deploy the smart contract directly in the browser first.
 
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
