@@ -152,6 +152,7 @@ Runing specific test:
  
 ### Variables:
 * ****`i_owner`****:
+* ****`STOCK_PRICE`****:
 
 
 
