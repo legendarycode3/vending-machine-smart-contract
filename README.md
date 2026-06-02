@@ -134,7 +134,7 @@ Runing specific test:
 
 ## 📋Contract Details
 ### Functions:
-* ****`constructor()`****: Sets the contract deployer
+* ****`constructor()`****: Sets the contract deployer as the owner (`i_owner`)
 * ****`restock(uint256 _amount)`****:
 * ****`buyerPurchaseStocks(uint256 _amount)`****:
 * ****`withdraw()`****:
