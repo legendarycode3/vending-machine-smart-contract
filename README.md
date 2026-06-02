@@ -160,7 +160,7 @@ Runing specific test:
     Defines the cost of one stock/item. </br>
 * ****`INITIAL_STOCKS`****: Defines the initial inventory of the vending machine when the contract is deployed. Set to `500`. </br>
     * Purpose: </br>
-    Sets the vending
+    Sets the vending machine's starting inventory.
 * ****`s_stocksBalance`****: Tracks the number of stocks/items owned by each address. The vending machine's inventory is stored under `address(this)`, while purchased stocks are stored under the buyer's address. </br>
 
 
