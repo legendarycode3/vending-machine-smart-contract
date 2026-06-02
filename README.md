@@ -135,6 +135,7 @@ Runing specific test:
 ## 📋Contract Details
 ### Functions:
 * ****`constructor()`****:
+* ****`restock(uint256 _amount)`****:
 
 ### Variables:
 
