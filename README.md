@@ -121,8 +121,9 @@ Testing is essential because smart contracts become immutable after deployment, 
    ```
 3. Compile the smart contract:  `forge build`
 
- ### Testing the contract (Using Foundry Development Kit )
- 
+### Testing the contract (Using Foundry Development Kit )
+Runing all tests:
+
 
 ## Usage Guide (How to use - `E.G When using Remix IDE`) - Workflow
 ### Deployment
