@@ -152,9 +152,9 @@ Runing specific test:
  
 ### Variables:
 
-Deploy Contract
-       │
-       ▼
+Deploy Contract </br>
+       │ </br>
+       ▼ </br>
 Initial Stock = 500
        │
        ▼
