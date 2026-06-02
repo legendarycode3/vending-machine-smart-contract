@@ -162,6 +162,7 @@ Runing specific test:
     * Purpose: </br>
     Sets the vending machine's starting inventory.
 * ****`s_stocksBalance`****: Tracks the number of stocks/items owned by each address. The vending machine's inventory is stored under `address(this)`, while purchased stocks are stored under the buyer's address. </br>
+    * Purpose: </br>
 
 
 
