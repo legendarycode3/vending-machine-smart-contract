@@ -150,8 +150,8 @@ Runing specific test:
     * Purpose: </br>
     Returns the remaining inventory in the vending machine.
  
-### Variables:
-* ****`i_owner`****:
+### Variables: 
+* ****`i_owner`****: Stores the address of the contract owner (the deployer).
 * ****`STOCK_PRICE`****:
 * ****`INITIAL_STOCKS`****:
 * ****`s_stocksBalance`****:
