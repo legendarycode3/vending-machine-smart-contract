@@ -156,6 +156,7 @@ Runing specific test:
     Identifies the owner of the contract. </br>
     Used for access control through the `onlyOwner` modifier.
 * ****`STOCK_PRICE`****: The fixed price of one stock/item in the vending machine. Set to `0.1 ether`. Since it is `constant`, its value cannot be modified. </br>
+    * Purpose: </br>
 * ****`INITIAL_STOCKS`****: Defines the initial inventory of the vending machine when the contract is deployed. Set to `500`. </br>
 * ****`s_stocksBalance`****: Tracks the number of stocks/items owned by each address. The vending machine's inventory is stored under `address(this)`, while purchased stocks are stored under the buyer's address. </br>
 
