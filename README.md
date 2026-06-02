@@ -152,7 +152,7 @@ Runing specific test:
  
 ### Variables: 
 * ****`i_owner`****: Stores the address of the contract owner (the deployer). It is set once in the constructor and cannot be changed afterward because it is `immutable`.
-* ****`STOCK_PRICE`****:
+* ****`STOCK_PRICE`****: The fixed price of one stock/item
 * ****`INITIAL_STOCKS`****:
 * ****`s_stocksBalance`****:
 
