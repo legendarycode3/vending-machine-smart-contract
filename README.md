@@ -151,10 +151,11 @@ Runing specific test:
     Returns the remaining inventory in the vending machine.
  
 ### Variables: 
-* ****`i_owner`****: Stores the address of the contract owner (the deployer). It is set once in the constructor and cannot be changed afterward because it is `immutable`.
-* ****`STOCK_PRICE`****: The fixed price of one stock/item in the vending machine. Set to `0.1 ether`. Since it is `constant`, its value cannot be modified.
-* ****`INITIAL_STOCKS`****: Defines the initial inventory of the vending machine when the contract is deployed. Set to `500`.
-* ****`s_stocksBalance`****: Tracks the number of stocks/items owned by each address. The vending machine's inventory is stored under `address(this)`, while purchased stocks are stored under the buyer's address.
+* ****`i_owner`****: Stores the address of the contract owner (the deployer). It is set once in the constructor and cannot be changed afterward because it is `immutable`. </br>
+    * Purpose: </br>
+* ****`STOCK_PRICE`****: The fixed price of one stock/item in the vending machine. Set to `0.1 ether`. Since it is `constant`, its value cannot be modified. </br>
+* ****`INITIAL_STOCKS`****: Defines the initial inventory of the vending machine when the contract is deployed. Set to `500`. </br>
+* ****`s_stocksBalance`****: Tracks the number of stocks/items owned by each address. The vending machine's inventory is stored under `address(this)`, while purchased stocks are stored under the buyer's address. </br>
 
 
 
