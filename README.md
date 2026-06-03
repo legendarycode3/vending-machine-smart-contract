@@ -221,6 +221,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Fractional Ownership Support:****
 * ****Liquidity Enhancement:****
 * ****Automation:****
+* ****Trustless Operation:****
 
 
 ## Foundry
