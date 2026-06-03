@@ -231,6 +231,8 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Immutability:****
 * ****24/7 Availability:****
 * ****Auditability:****
+* ****Global Accessibility:****
+
 
 
 ## Foundry
