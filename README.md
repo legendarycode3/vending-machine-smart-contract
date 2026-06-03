@@ -230,7 +230,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Reliability:**** Once deployed, the contract follows predefined rules consistently.
 * ****Immutability:**** Contract records are difficult to alter after being recorded on the blockchain.
 * ****24/7 Availability:****  Contracts can execute at any time without dependence on business hours.
-* ****Auditability:****
+* ****Auditability:**** Every transaction can be tracked and
 * ****Global Accessibility:****
 * ****Verifiable Fairness:****
 * ****Scalability of Business Logic:****
