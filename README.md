@@ -211,7 +211,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Decentralization:**** No single authority controls the contract or transaction process.
 * ****Permissionless Access:**** Anyone with a compatible wallet can interact with the contract.
 * ****Token Integration:****  Supports cryptocurrencies, NFTs, and other digital assets natively.
-* ****Programmable Money:**** Funds can be automatically
+* ****Programmable Money:**** Funds can be automatically distributed according to predefined rules.
 * ****Reduced Counterparty Risk:****
 * ****Cross-Border Transactions:****
 * ****Enhanced Ownership Control:****
