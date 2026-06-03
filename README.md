@@ -232,7 +232,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****24/7 Availability:****  Contracts can execute at any time without dependence on business hours.
 * ****Auditability:**** Every transaction can be tracked and verified through the blockchain ledger.
 * ****Global Accessibility:**** Users from different locations can interact with the contract without geographic barriers.
-* ****Verifiable Fairness:****
+* ****Verifiable Fairness:**** Contract logic can be inspected
 * ****Scalability of Business Logic:**** The same contract can serve thousands or millions of users consistently.
 * ****DAO Compatibility:****
 * ****Micropayment Support:****
