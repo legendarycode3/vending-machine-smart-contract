@@ -227,7 +227,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Transparency:**** Contract terms and transaction records can be visible and verifiable on the blockchain.
 * ****Security:**** Blockchain cryptography helps protect against tampering and unauthorized changes.
 * ****Accuracy:**** Automated execution reduces human errors in processing agreements.
-* ****Reliability:**** Once deployed, the contract
+* ****Reliability:**** Once deployed, the contract follows predefined rules consistently.
 * ****Immutability:****
 * ****24/7 Availability:****
 * ****Auditability:****
