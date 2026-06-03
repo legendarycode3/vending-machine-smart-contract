@@ -237,6 +237,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****DAO Compatibility:****
 * ****Micropayment Support:****
 * ****Fractional Ownership Support:****
+* ****Oracle Connectivity:****
 
 
 
