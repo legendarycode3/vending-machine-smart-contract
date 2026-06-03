@@ -215,7 +215,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Reduced Counterparty Risk:**** Execution does not depend on a party keeping their promise.
 * ****Cross-Border Transactions:**** Enables seamless transactions across countries without traditional banking delays.
 * ****Enhanced Ownership Control:**** Users maintain direct control of their digital assets through their wallets.
-* ****Instant Settlement:**** Assets are transferred and
+* ****Instant Settlement:**** Assets are transferred and settled automatically when conditions are met.
 * ****On-Chain Verification:****
 * ****Censorship Resistance:****
 * ****Fractional Ownership Support:****
