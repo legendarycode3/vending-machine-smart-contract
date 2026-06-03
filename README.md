@@ -211,6 +211,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Decentralization:****
 * ****Permissionless Access:****
 * ****Token Integration:****
+* ****Programmable Money:****
 
 
 ## Foundry
