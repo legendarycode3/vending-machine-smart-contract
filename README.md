@@ -217,6 +217,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Enhanced Ownership Control:****
 * ****Instant Settlement:****
 * ****On-Chain Verification:****
+* ****Censorship Resistance:****
 
 
 ## Foundry
