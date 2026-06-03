@@ -207,7 +207,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Composability:**** the contract can become part of larger Web3 ecosystems.
 
 ## Benefits of Vending Machine Smart Contracts
-Benefits of `Vending Machine Smart Contracts` (smart contracts that automatically
+Benefits of `Vending Machine Smart Contracts` (smart contracts that automatically execute predefined actions when conditions are met,
 
 
 ## Foundry
