@@ -233,6 +233,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Auditability:****
 * ****Global Accessibility:****
 * ****Verifiable Fairness:****
+* ****Scalability of Business Logic:****
 
 
 
