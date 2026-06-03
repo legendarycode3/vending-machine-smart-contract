@@ -220,7 +220,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Censorship Resistance:**** Harder for a central authority to block or interfere with transactions.
 * ****Fractional Ownership Support:**** Allows assets to be divided into smaller ownership units using tokens.
 * ****Liquidity Enhancement:**** Digital assets can be traded or exchanged more efficiently in Web3 ecosystems.
-* ****Automation:****
+* ****Automation:**** Transactions execute automatically
 * ****Trustless Operation:****
 * ****Speed:****
 * ****Cost Reduction:****
