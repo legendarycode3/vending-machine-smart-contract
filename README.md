@@ -218,7 +218,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Instant Settlement:**** Assets are transferred and settled automatically when conditions are met.
 * ****On-Chain Verification:**** Transactions and contract execution can be verified publicly on the blockchain.
 * ****Censorship Resistance:**** Harder for a central authority to block or interfere with transactions.
-* ****Fractional Ownership Support:****
+* ****Fractional Ownership Support:**** Allows assets to be divided into
 * ****Liquidity Enhancement:****
 * ****Automation:****
 * ****Trustless Operation:****
