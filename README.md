@@ -214,7 +214,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Programmable Money:**** Funds can be automatically distributed according to predefined rules.
 * ****Reduced Counterparty Risk:**** Execution does not depend on a party keeping their promise.
 * ****Cross-Border Transactions:**** Enables seamless transactions across countries without traditional banking delays.
-* ****Enhanced Ownership Control:****
+* ****Enhanced Ownership Control:**** Users maintain direct control
 * ****Instant Settlement:****
 * ****On-Chain Verification:****
 * ****Censorship Resistance:****
