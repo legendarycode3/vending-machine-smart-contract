@@ -221,7 +221,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Fractional Ownership Support:**** Allows assets to be divided into smaller ownership units using tokens.
 * ****Liquidity Enhancement:**** Digital assets can be traded or exchanged more efficiently in Web3 ecosystems.
 * ****Automation:**** Transactions execute automatically without human intervention.
-* ****Trustless Operation:**** Parties do not need to
+* ****Trustless Operation:**** Parties do not need to trust each other; they trust the code.
 * ****Speed:****
 * ****Cost Reduction:****
 * ****Transparency:****
