@@ -238,7 +238,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Micropayment Support:**** Enables low-value transactions that may be impractical in traditional systems.
 * ****Fractional Ownership Support:**** Allows assets to be divided into smaller ownership units using tokens.
 * ****Oracle Connectivity:**** Can use external real-world data (prices, weather, events) through blockchain oracles.
-* ****Event-Driven Execution:****
+* ****Event-Driven Execution:**** Contracts can trigger actions
 
 
 
