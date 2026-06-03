@@ -223,7 +223,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Automation:**** Transactions execute automatically without human intervention.
 * ****Trustless Operation:**** Parties do not need to trust each other; they trust the code.
 * ****Speed:**** Agreements are executed instantly once conditions are satisfied.
-* ****Cost Reduction:****
+* ****Cost Reduction:**** Eliminates intermediaries such as
 * ****Transparency:****
 * ****Security:****
 * ****Accuracy:****
