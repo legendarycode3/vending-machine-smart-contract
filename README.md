@@ -236,7 +236,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Scalability of Business Logic:**** The same contract can serve thousands or millions of users consistently.
 * ****DAO Compatibility:**** Can be integrated with Decentralized Autonomous Organization (DAO) operations for automated treasury and governance actions.
 * ****Micropayment Support:**** Enables low-value transactions that may be impractical in traditional systems.
-* ****Fractional Ownership Support:****
+* ****Fractional Ownership Support:**** Allows assets to be divided into
 * ****Oracle Connectivity:****
 
 
