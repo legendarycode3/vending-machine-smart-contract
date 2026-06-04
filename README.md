@@ -229,6 +229,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Utility Payments:**** Enables automated payment and service activation for utilities such as electricity, internet, or cloud resources.
 * ****Carbon Credit Trading:**** Issues, transfers, and retires carbon credits based on predefined environmental conditions.
 * ****Supply Chain Payments:**** Releases payments when goods reach specific checkpoints or delivery milestones. Releases payments when shipment milestones or delivery confirmations are verified.
+* ****Trade Finance:****
 
 
 
