@@ -221,7 +221,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Event Ticketing:**** Issues digital tickets upon payment and validates ownership for event access.
 * ****Rental Agreements:**** Collects rent and returns security deposits based on lease conditions.
 * ****Loan Repayment Collection:**** Collects scheduled repayments and updates loan status automatically.
-* ****Token Swaps:****  Enables direct exchange of one token
+* ****Token Swaps:****  Enables direct exchange of one token for another without intermediaries.
 
 
 
