@@ -219,7 +219,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Digital Identity & Access Management:**** Grants users access to restricted digital content, software services,   or physical properties only after they meet specific requirements (e.g., age verification or subscription payment). 
 * ****Automated Real Estate Purchases:**** Replaces the need for traditional escrow agents or banks when executing standard property purchases or transfers.  The property deed and funds are swapped automatically once all payment terms are fulfilled.
 * ****Event Ticketing:**** Issues digital tickets upon payment and validates ownership for event access.
-* ****Rental Agreements:****
+* ****Rental Agreements:**** Collects rent and returns security
 
 
 
