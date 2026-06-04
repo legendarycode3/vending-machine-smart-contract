@@ -215,7 +215,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Gaming Rewards:**** Issues tokens, NFTs, or other rewards when players achieve milestones or complete objectives.
 * ****DAO Incentives:**** Rewards community members for governance participation, voting, or completing assigned tasks.
 * ****Payroll Automation:**** Releases salaries to employees automatically on scheduled dates or after work verification.
-* ****Royalty Distribution:**** Splits and distributes revenue among
+* ****Royalty Distribution:**** Splits and distributes revenue among creators, artists, publishers, and
 
 
 
