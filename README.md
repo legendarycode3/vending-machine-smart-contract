@@ -212,7 +212,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Subscription Activation:**** Grants or renews access to a service once the subscription fee is paid.
 * ****Escrow Services:**** Holds funds securely and releases them when predefined conditions are satisfied by both parties.
 * ****Crowdfunding:**** Collects contributions and automatically releases funds if funding goals are met; otherwise refunds contributors.
-* ****Gaming Rewards:**** Issues tokens, NFTs, or other rewards
+* ****Gaming Rewards:**** Issues tokens, NFTs, or other rewards when players achieve milestones or complete objectives.
 
 
 ## Benefits of Vending Machine Smart Contracts
