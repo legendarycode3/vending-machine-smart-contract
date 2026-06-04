@@ -208,7 +208,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 
 ## Common Key UseCases of Vending Machine Smart Contracts
 * ****Token Sales:**** Automatically distributes tokens to users when they send the required cryptocurrency payment.
-* ****NFT Minting:****
+* ****NFT Minting:**** Mints and transfers NFTs to buyers
 
 
 ## Benefits of Vending Machine Smart Contracts
