@@ -226,7 +226,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****IoT Device Transactions:**** Smart devices can automatically pay for services or resources (e.g., charging stations, data usage) without human intervention. It Enables machines to automatically pay for services or resources without human intervention. 
 * ****Charity Distribution:**** Releases donated funds to beneficiaries according to transparent rules. Distributes donated funds according to transparent rules and predefined milestones.
 * ****Lottery Systems:**** Collects entries, selects winners according to predefined rules, and distributes prizes automatically.
-* ****Utility Payments:**** Enables automated payment and service activation for utilities
+* ****Utility Payments:**** Enables automated payment and service activation for utilities such as electricity, internet, or cloud resources.
 
 
 
