@@ -223,7 +223,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Loan Repayment Collection:**** Collects scheduled repayments and updates loan status automatically.
 * ****Token Swaps:****  Enables direct exchange of one token for another without intermediaries.
 * ****Certificate Issuance:**** Issues verifiable digital certificates when educational or training requirements are completed.
-* ****IoT Device Transactions:****
+* ****IoT Device Transactions:**** Smart devices can automatically
 
 
 
