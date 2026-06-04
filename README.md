@@ -211,7 +211,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****NFT Minting:**** Mints and transfers NFTs to buyers  immediately after payment is confirmed.
 * ****Subscription Activation:**** Grants or renews access to a service once the subscription fee is paid.
 * ****Escrow Services:**** Holds funds securely and releases them when predefined conditions are satisfied by both parties.
-* ****Crowdfunding:**** Collects contributions and
+* ****Crowdfunding:**** Collects contributions and automatically releases funds if funding
 
 
 ## Benefits of Vending Machine Smart Contracts
