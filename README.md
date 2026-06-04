@@ -228,7 +228,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Lottery Systems:**** Collects entries, selects winners according to predefined rules, and distributes prizes automatically.
 * ****Utility Payments:**** Enables automated payment and service activation for utilities such as electricity, internet, or cloud resources.
 * ****Carbon Credit Trading:**** Issues, transfers, and retires carbon credits based on predefined environmental conditions.
-* ****Supply Chain Payments:****
+* ****Supply Chain Payments:**** Releases payments when goods reach
 
 
 
