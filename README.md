@@ -224,7 +224,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Token Swaps:****  Enables direct exchange of one token for another without intermediaries.
 * ****Certificate Issuance:**** Issues verifiable digital certificates when educational or training requirements are completed.
 * ****IoT Device Transactions:**** Smart devices can automatically pay for services or resources (e.g., charging stations, data usage) without human intervention. It Enables machines to automatically pay for services or resources without human intervention.
-* ****Charity Distribution:****
+* ****Charity Distribution:**** Releases donated funds to
 
 
 
