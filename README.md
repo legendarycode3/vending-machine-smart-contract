@@ -217,7 +217,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Payroll Automation:**** Releases salaries to employees automatically on scheduled dates or after work verification.
 * ****Royalty Distribution:**** Splits and distributes revenue among creators, artists, publishers, and stakeholders according to predefined percentages.
 * ****Digital Identity & Access Management:**** Grants users access to restricted digital content, software services,   or physical properties only after they meet specific requirements (e.g., age verification or subscription payment). 
-* ****Automated Real Estate Purchases:**** Replaces the need for traditional escrow agents
+* ****Automated Real Estate Purchases:**** Replaces the need for traditional escrow agents or banks when executing standard property purchases or transfers. 
 
 
 
