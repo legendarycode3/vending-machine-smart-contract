@@ -227,7 +227,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****Charity Distribution:**** Releases donated funds to beneficiaries according to transparent rules. Distributes donated funds according to transparent rules and predefined milestones.
 * ****Lottery Systems:**** Collects entries, selects winners according to predefined rules, and distributes prizes automatically.
 * ****Utility Payments:**** Enables automated payment and service activation for utilities such as electricity, internet, or cloud resources.
-* ****Carbon Credit Trading:**** Issues, transfers, and retires carbon
+* ****Carbon Credit Trading:**** Issues, transfers, and retires carbon credits based on predefined
 
 
 
