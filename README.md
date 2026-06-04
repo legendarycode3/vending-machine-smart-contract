@@ -216,7 +216,7 @@ The Vending Machine smart contract is important because it demonstrates the fund
 * ****DAO Incentives:**** Rewards community members for governance participation, voting, or completing assigned tasks.
 * ****Payroll Automation:**** Releases salaries to employees automatically on scheduled dates or after work verification.
 * ****Royalty Distribution:**** Splits and distributes revenue among creators, artists, publishers, and stakeholders according to predefined percentages.
-* ****Digital Identity & Access Management:**** Grants users access to restricted digital content, software services,   or physical properties only after they meet specific
+* ****Digital Identity & Access Management:**** Grants users access to restricted digital content, software services,   or physical properties only after they meet specific requirements (e.g., age verification or subscription payment).
 
 
 
