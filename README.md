@@ -270,7 +270,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Reduced Fraud Risk:**** Automated execution limits opportunities for manipulation and unauthorized changes.
 
 ## Security Consideration
-* ****Reentrancy Risk:**** The contract sends ETH to users (refunds) and the owner (withdrawals).
+* ****Reentrancy Risk:**** The contract sends ETH to users (refunds) and the owner (withdrawals). Although the current implementation
 * Ensure proper access control mechanisms to prevent unauthorized restocking or manipulation of the contract's inventory.
 * Implement robust error handling to handle cases where purchases fail due to insufficient funds  or unavailable items.
 * Test the contract on Evm testnets network before deploying to the mainnet to identify and fix potential issues.
