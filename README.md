@@ -275,14 +275,14 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 **3.** ****Lost Owner Key:**** The owner's address is immutable. If the owner loses access to their wallet, funds and administrative functions may become permanently inaccessible. </br>
 **4.** ****No Emergency Pause:**** The contract cannot be paused if a bug or unexpected issue is discovered. </br>
 **5** ****Front-Running:**** When stock is low, another user may submit a transaction with a higher gas fee and purchase the remaining stock first. </br>
-**6.** ****No Purchase Limits:**** A single user can buy all available stock in one transaction.
-**7.** ****Zero-Amount Transactions:**** The contract allows purchasing or restocking `0` items. Risk, Unnecessary transactions and event logs.
-**8.** ****Reentrancy Risk:**** The contract sends ETH to users (refunds) and the owner (withdrawals). Although the current implementation updates state before sending ETH, external calls can still be a security concern.
-**9.** ****Refund Failure:**** If a buyer overpays, the contract immediately sends back the excess ETH. If the buyer is a contract that rejects ETH transfers, the entire purchase transaction will fail.
-  ****Mitigation****
-* Ensure proper access control mechanisms to prevent unauthorized restocking or manipulation of the contract's inventory. 
-* Implement robust error handling to handle cases where purchases fail due to insufficient funds  or unavailable items.
-* Test the contract on Evm testnets network before deploying to the mainnet to identify and fix potential issues.
+**6.** ****No Purchase Limits:**** A single user can buy all available stock in one transaction. </br>
+**7.** ****Zero-Amount Transactions:**** The contract allows purchasing or restocking `0` items. Risk, Unnecessary transactions and event logs. </br>
+**8.** ****Reentrancy Risk:**** The contract sends ETH to users (refunds) and the owner (withdrawals). Although the current implementation updates state before sending ETH, external calls can still be a security concern. </br>
+**9.** ****Refund Failure:**** If a buyer overpays, the contract immediately sends back the excess ETH. If the buyer is a contract that rejects ETH transfers, the entire purchase transaction will fail. </br>
+  ****Mitigation**** Store refunds and let users
+* Ensure proper access control mechanisms to prevent unauthorized restocking or manipulation of the contract's inventory.  </br>
+* Implement robust error handling to handle cases where purchases fail due to insufficient funds  or unavailable items. </br>
+* Test the contract on Evm testnets network before deploying to the mainnet to identify and fix potential issues. </br>
 
 
 ## Foundry
