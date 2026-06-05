@@ -272,6 +272,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 ## Security Consideration
 * Ensure proper access control mechanisms to prevent unauthorized restocking or manipulation of the contract's inventory.
 * Implement robust error handling to handle cases where purchases fail due to insufficient funds  or unavailable items.
+* Test the contract on Evm testnets network before deploying
 
 
 ## Foundry
