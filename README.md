@@ -276,7 +276,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Unlimited Restocking:**** The owner can add any amount of stock at any time.
 * ****Lost Owner Key:**** The owner's address is immutable. If the owner loses access to their wallet, funds and administrative functions may become permanently inaccessible.
 * ****No Emergency Pause:**** The contract cannot be paused if a bug or unexpected issue is discovered.
-* ****Front-Running:**** When stock is low, another user may submit a transaction with a higher gas fee and
+* ****Front-Running:**** When stock is low, another user may submit a transaction with a higher gas fee and purchase the remaining stock first.
 * Ensure proper access control mechanisms to prevent unauthorized restocking or manipulation of the contract's inventory. 
 * Implement robust error handling to handle cases where purchases fail due to insufficient funds  or unavailable items.
 * Test the contract on Evm testnets network before deploying to the mainnet to identify and fix potential issues.
