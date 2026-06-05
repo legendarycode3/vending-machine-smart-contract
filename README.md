@@ -270,7 +270,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Reduced Fraud Risk:**** Automated execution limits opportunities for manipulation and unauthorized changes.
 
 ## Security Consideration
-* Ensure proper access control mechanisms to prevent unauthorized restocking
+* Ensure proper access control mechanisms to prevent unauthorized restocking or manipulation of the contract's inventory.
 
 
 ## Foundry
