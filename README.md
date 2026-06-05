@@ -278,7 +278,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****No Emergency Pause:**** The contract cannot be paused if a bug or unexpected issue is discovered.
 * ****Front-Running:**** When stock is low, another user may submit a transaction with a higher gas fee and purchase the remaining stock first.
 * ****No Purchase Limits:**** A single user can buy all available stock in one transaction.
-* ****Zero-Amount Transactions:**** The contract allows
+* ****Zero-Amount Transactions:**** The contract allows purchasing or restocking `0` items.
 * Ensure proper access control mechanisms to prevent unauthorized restocking or manipulation of the contract's inventory. 
 * Implement robust error handling to handle cases where purchases fail due to insufficient funds  or unavailable items.
 * Test the contract on Evm testnets network before deploying to the mainnet to identify and fix potential issues.
