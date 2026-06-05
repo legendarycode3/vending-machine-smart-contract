@@ -270,8 +270,6 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Reduced Fraud Risk:**** Automated execution limits opportunities for manipulation and unauthorized changes.
 
 ## Security Consideration
-* ****Reentrancy Risk:**** The contract sends ETH to users (refunds) and the owner (withdrawals). Although the current implementation updates state before sending ETH, external calls can still be a security concern.
-* ****Refund Failure:**** If a buyer overpays, the contract immediately sends back the excess ETH. If the buyer is a contract that rejects ETH transfers, the entire purchase transaction will fail.
 **1.** ****Owner Privileges:**** The owner has full control over restocking inventory and withdrawing all funds from the contract.
 **2.** ****Unlimited Restocking:**** The owner can add any amount of stock at any time.
 **3.** ****Lost Owner Key:**** The owner's address is immutable. If the owner loses access to their wallet, funds and administrative functions may become permanently inaccessible.
@@ -279,6 +277,8 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 **5** ****Front-Running:**** When stock is low, another user may submit a transaction with a higher gas fee and purchase the remaining stock first.
 **6.** ****No Purchase Limits:**** A single user can buy all available stock in one transaction.
 **7.** ****Zero-Amount Transactions:**** The contract allows purchasing or restocking `0` items. Risk, Unnecessary transactions and event logs.
+**8.** ****Reentrancy Risk:**** The contract sends ETH to users (refunds) and the owner (withdrawals). Although the current implementation updates state before sending ETH, external calls can still be a security concern.
+**9.** ****Refund Failure:**** If a buyer overpays, the contract immediately sends back the excess ETH. If the buyer is a contract that rejects ETH transfers, the entire purchase transaction will fail.
   ****Mitigation****
 * Ensure proper access control mechanisms to prevent unauthorized restocking or manipulation of the contract's inventory. 
 * Implement robust error handling to handle cases where purchases fail due to insufficient funds  or unavailable items.
