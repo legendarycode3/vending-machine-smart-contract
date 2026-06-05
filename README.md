@@ -275,7 +275,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Owner Privileges:**** The owner has full control over restocking inventory and withdrawing all funds from the contract.
 * ****Unlimited Restocking:**** The owner can add any amount of stock at any time.
 * ****Lost Owner Key:**** The owner's address is immutable. If the owner loses access to their wallet, funds and administrative functions may become permanently inaccessible.
-* ****No Emergency Pause:**** The contract cannot
+* ****No Emergency Pause:**** The contract cannot be paused if a bug or
 * Ensure proper access control mechanisms to prevent unauthorized restocking or manipulation of the contract's inventory. 
 * Implement robust error handling to handle cases where purchases fail due to insufficient funds  or unavailable items.
 * Test the contract on Evm testnets network before deploying to the mainnet to identify and fix potential issues.
