@@ -279,7 +279,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 **7.** ****Zero-Amount Transactions:**** The contract allows purchasing or restocking `0` items. Risk, Unnecessary transactions and event logs. </br>
 **8.** ****Reentrancy Risk:**** The contract sends ETH to users (refunds) and the owner (withdrawals). Although the current implementation updates state before sending ETH, external calls can still be a security concern. </br>
 **9.** ****Refund Failure:**** If a buyer overpays, the contract immediately sends back the excess ETH. If the buyer is a contract that rejects ETH transfers, the entire purchase transaction will fail. </br>
-**10.** ****Forced ETH Transfers:**** Although the contract does not accept direct ETH transfers,
+**10.** ****Forced ETH Transfers:**** Although the contract does not accept direct ETH transfers, ETH can still be forced into the contract through
 * Ensure proper access control mechanisms to prevent unauthorized restocking or manipulation of the contract's inventory.  </br>
 * Implement robust error handling to handle cases where purchases fail due to insufficient funds  or unavailable items. </br>
 * Test the contract on Evm testnets network before deploying to the mainnet to identify and fix potential issues. </br>
