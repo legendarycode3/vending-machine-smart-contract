@@ -270,11 +270,11 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 * ****Reduced Fraud Risk:**** Automated execution limits opportunities for manipulation and unauthorized changes.
 
 ## Security Consideration
-**1.** ****Owner Privileges:**** The owner has full control over restocking inventory and withdrawing all funds from the contract.
-**2.** ****Unlimited Restocking:**** The owner can add any amount of stock at any time.
-**3.** ****Lost Owner Key:**** The owner's address is immutable. If the owner loses access to their wallet, funds and administrative functions may become permanently inaccessible.
-**4.** ****No Emergency Pause:**** The contract cannot be paused if a bug or unexpected issue is discovered.
-**5** ****Front-Running:**** When stock is low, another user may submit a transaction with a higher gas fee and purchase the remaining stock first.
+**1.** ****Owner Privileges:**** The owner has full control over restocking inventory and withdrawing all funds from the contract. </br>
+**2.** ****Unlimited Restocking:**** The owner can add any amount of stock at any time. </br>
+**3.** ****Lost Owner Key:**** The owner's address is immutable. If the owner loses access to their wallet, funds and administrative functions may become permanently inaccessible. </br>
+**4.** ****No Emergency Pause:**** The contract cannot be paused if a bug or unexpected issue is discovered. </br>
+**5** ****Front-Running:**** When stock is low, another user may submit a transaction with a higher gas fee and purchase the remaining stock first. </br>
 **6.** ****No Purchase Limits:**** A single user can buy all available stock in one transaction.
 **7.** ****Zero-Amount Transactions:**** The contract allows purchasing or restocking `0` items. Risk, Unnecessary transactions and event logs.
 **8.** ****Reentrancy Risk:**** The contract sends ETH to users (refunds) and the owner (withdrawals). Although the current implementation updates state before sending ETH, external calls can still be a security concern.
