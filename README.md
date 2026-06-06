@@ -1,6 +1,6 @@
 # 🎰 Vending Machine Smart Contract
 A secure, fully on-chain `vending machine smart contract` built with Solidity. Users can purchase inventory with cryptocurrency while the contract enforces automated dispensing, strict accounting, and modern smart contract security practices.
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1259acd1-ffe0-4b03-8bd5-f0db783d2971" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/1259acd1-ffe0-4b03-8bd5-f0db783d2971" />
 
 
 ## Project Overview
