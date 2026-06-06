@@ -48,7 +48,7 @@ This `Vending Machine Smart Contract` demonstrates a practical blockchain-based 
 * ****Instant Settlement:**** Payments and inventory updates occur within a single transaction, providing immediate and verifiable settlement.
 * ****Fully On-Chain Logic:**** Core vending machine operations, including inventory tracking, pricing, and payments, are executed entirely on-chain for maximum transparency and decentralization.
 * ****Security-Focused Design:**** Implements modern Solidity security practices, including access restrictions, input validation, and safe fund management.
-* ****Transparent Sales Tracking:****
+* ****Transparent Sales Tracking:**** All purchase activity can be
 
 
 
