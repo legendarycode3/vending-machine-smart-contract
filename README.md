@@ -46,6 +46,7 @@ This `Vending Machine Smart Contract` demonstrates a practical blockchain-based 
 * ****Overpayment Detection:**** The contract identifies when a user sends more ETH than required.
 * ****Payment Validation:**** Transactions are validated before processing to ensure users provide the correct payment amount for selected products.
 * ****Instant Settlement:**** Payments and inventory updates occur within a single transaction, providing immediate and verifiable settlement.
+* ****Fully On-Chain Logic:****
 
 
 ## 🧠 Key Concepts Applied
