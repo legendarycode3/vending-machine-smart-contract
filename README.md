@@ -282,7 +282,7 @@ Benefits of `Vending Machine Smart Contracts` (smart contracts that automaticall
 **10.** ****Forced ETH Transfers:**** Although the contract does not accept direct ETH transfers, ETH can still be forced into the contract through certain blockchain mechanisms. Risk Contract balance may become higher than expected.
 **11.** ****Arithmetic Safety:**** The contract uses Solidity `0.8.19` , which automatically checks for integer overflows and underflows. </br>
 **15.** ****Checks-Effects-Interactions (CEI):**** Prevents Reentrancy attacks.
-**16.** ****Gas-Optimized Modifiers:**** Validation logic is implemented
+**16.** ****Gas-Optimized Modifiers:**** Validation logic is implemented to reduce bytecode size and deployment costs.
 **12.** Ensure proper access control mechanisms to prevent unauthorized restocking or manipulation of the contract's inventory.  </br>
 **13.** Implement robust error handling to handle cases where purchases fail due to insufficient funds  or unavailable items. </br>
 **14.** Test the contract on Evm testnets network before deploying to the mainnet to identify and fix potential issues. </br>
