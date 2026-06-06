@@ -1,5 +1,5 @@
 # 🎰 Vending Machine Smart Contract
-A secure, fully on-chain
+A secure, fully on-chain vending machine smart contract
 
 
 ## Project Overview
