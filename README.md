@@ -45,7 +45,8 @@ This `Vending Machine Smart Contract` demonstrates a practical blockchain-based 
 * ****Secure Refund Transfer:**** Refunds are executed using low-level `.call()` for compatibility.
 * ****Overpayment Detection:**** The contract identifies when a user sends more ETH than required.
 * ****Payment Validation:**** Transactions are validated before processing to ensure users provide the correct payment amount for selected products.
-* ****Instant Settlement:**** Payments and inventory updates
+* ****Instant Settlement:**** Payments and inventory updates occur within a single transaction,
+
 
 ## 🧠 Key Concepts Applied
 * ****State Variables:**** Stores contract data such as owner address and stock balances.
