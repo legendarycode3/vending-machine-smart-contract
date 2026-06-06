@@ -30,7 +30,8 @@ This `Vending Machine Smart Contract` demonstrates a practical blockchain-based 
 * ****Fixed Product Price:**** Transparent pricing , no manipulation after deployment.
 * ****Initial Inventory:**** Contract itself acts as the inventory holder.
 * ****Owner-Only Restocking:**** Only the machine owner can add inventory and prevents unauthorized stock inflation.
-* ****Purchase Mechanism.**** Users can buy stocks/items via `buyerPurchaseStocks()`.
+* ****Purchase Mechanism.**** Users can buy stocks/items via `buyerPurchaseStocks()`. With the ability to 
+* 
 * ****Automatic Refunds:**** If a buyer sends too much ETH. The excess amount is refunded automatically.
 * ****CEI Security Pattern:**** This significantly reduces reentrancy risk.
 * ****Owner Revenue Withdrawal:**** Allows only owner to withdraw accumulated sales revenue. Owner can "Checks balance first" and it automatically reverts if no valid available amount . Transfers all contract funds to the owner.
