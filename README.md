@@ -44,7 +44,7 @@ This `Vending Machine Smart Contract` demonstrates a practical blockchain-based 
 * ****Public Inventory Query:**** Anyone can check available machine stock using `availableStocks()`.
 * ****Secure Refund Transfer:**** Refunds are executed using low-level `.call()` for compatibility.
 * ****Overpayment Detection:**** The contract identifies when a user sends more ETH than required.
-* ****Payment Validation:**** Transactions are validated
+* ****Payment Validation:**** Transactions are validated before processing to ensure users
 
 ## 🧠 Key Concepts Applied
 * ****State Variables:**** Stores contract data such as owner address and stock balances.
